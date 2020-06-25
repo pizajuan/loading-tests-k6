@@ -1,0 +1,22 @@
+[
+    {
+        "IdContacto":23945,
+        "TipoIdentificacion":"PATENTE",
+        "Identificacion":"MBW358"
+    },
+    {
+        "IdContacto":23945,
+        "TipoIdentificacion":"DNI",
+        "Identificacion":"345576667"
+    },
+    {
+        "IdContacto":23945,
+        "TipoIdentificacion":"PATENTE",
+        "Identificacion":"XZX130"
+    },
+    {
+        "IdContacto":23945,
+        "TipoIdentificacion":"PATENTE",
+        "Identificacion":"XZX127"
+    }
+]
